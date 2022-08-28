@@ -1,4 +1,4 @@
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/aHPRJQhenk0" title="Flutter Lesson: Gojek UI Home Screen - Belajar Flutter Bahasa Indonesia"></iframe></p>
+[![Flutter Lesson: Gojek UI Home Screen - Belajar Flutter Bahasa Indonesia](https://img.youtube.com/vi/aHPRJQhenk0/0.jpg)](https://www.youtube.com/watch?v=aHPRJQhenk0)
 
 <p align="center">
 <a href="https://arifisme.dev/">
@@ -22,4 +22,4 @@
 
 Flutter Lesson: Gojek UI Home Screen - Let's learn code an application.
 
-Please see the video for instructions
+Please see video for documentation.
